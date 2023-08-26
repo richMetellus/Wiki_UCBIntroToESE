@@ -298,7 +298,7 @@ Libraries Providers
 
     .. raw:: html
 
-       <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRvYdcXo7lJkAfPboML8aM6kaPEpqEUsewpYI-fbR7Tv1fA59a9evm5oXlZzqJsLnMVU3ZoACAE5LDv/embed?start=false&loop=false&delayms=3000&slide=id.p16" 
+       <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRvYdcXo7lJkAfPboML8aM6kaPEpqEUsewpYI-fbR7Tv1fA59a9evm5oXlZzqJsLnMVU3ZoACAE5LDv/embed?start=false&loop=false&slide=id.p16" 
           frameborder="0" width="100%" height="500" allowfullscreen="true" 
           mozallowfullscreen="true" webkitallowfullscreen="true">
        </iframe>
@@ -355,7 +355,7 @@ as possible.
 
         .. raw:: html
 
-           <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRvYdcXo7lJkAfPboML8aM6kaPEpqEUsewpYI-fbR7Tv1fA59a9evm5oXlZzqJsLnMVU3ZoACAE5LDv/embed?start=false&loop=false&delayms=3000&slide=id.p17" 
+           <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRvYdcXo7lJkAfPboML8aM6kaPEpqEUsewpYI-fbR7Tv1fA59a9evm5oXlZzqJsLnMVU3ZoACAE5LDv/embed?start=false&loop=false&slide=id.p17" 
               frameborder="0" width="100%" height="500" allowfullscreen="true" 
               mozallowfullscreen="true" webkitallowfullscreen="true">
            </iframe>
@@ -386,7 +386,7 @@ as possible.
 
     .. raw:: html
 
-       <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRvYdcXo7lJkAfPboML8aM6kaPEpqEUsewpYI-fbR7Tv1fA59a9evm5oXlZzqJsLnMVU3ZoACAE5LDv/embed?start=false&loop=false&delayms=3000&slide=id.p20" 
+       <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRvYdcXo7lJkAfPboML8aM6kaPEpqEUsewpYI-fbR7Tv1fA59a9evm5oXlZzqJsLnMVU3ZoACAE5LDv/embed?start=false&loop=false&slide=id.p20" 
           frameborder="0" width="100%" height="500" allowfullscreen="true" 
           mozallowfullscreen="true" webkitallowfullscreen="true">
        </iframe>
@@ -438,7 +438,7 @@ Static Libraries
 
     .. raw:: html
 
-       <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRvYdcXo7lJkAfPboML8aM6kaPEpqEUsewpYI-fbR7Tv1fA59a9evm5oXlZzqJsLnMVU3ZoACAE5LDv/embed?start=false&loop=false&delayms=3000&slide=id.p23" 
+       <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRvYdcXo7lJkAfPboML8aM6kaPEpqEUsewpYI-fbR7Tv1fA59a9evm5oXlZzqJsLnMVU3ZoACAE5LDv/embed?start=false&loop=false&slide=id.p23" 
           frameborder="0" width="100%" height="500" allowfullscreen="true" 
           mozallowfullscreen="true" webkitallowfullscreen="true">
        </iframe>
@@ -464,7 +464,7 @@ Shared Libraries
 
     .. raw:: html
 
-       <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRvYdcXo7lJkAfPboML8aM6kaPEpqEUsewpYI-fbR7Tv1fA59a9evm5oXlZzqJsLnMVU3ZoACAE5LDv/embed?start=false&loop=false&delayms=3000&slide=id.p24" 
+       <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRvYdcXo7lJkAfPboML8aM6kaPEpqEUsewpYI-fbR7Tv1fA59a9evm5oXlZzqJsLnMVU3ZoACAE5LDv/embed?start=false&loop=false&slide=id.p24" 
           frameborder="0" width="100%" height="500" allowfullscreen="true" 
           mozallowfullscreen="true" webkitallowfullscreen="true">
        </iframe>
@@ -503,7 +503,7 @@ You might ask yourself
  
      .. raw:: html
  
-        <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRvYdcXo7lJkAfPboML8aM6kaPEpqEUsewpYI-fbR7Tv1fA59a9evm5oXlZzqJsLnMVU3ZoACAE5LDv/embed?start=false&loop=false&delayms=3000&slide=id.p26" 
+        <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRvYdcXo7lJkAfPboML8aM6kaPEpqEUsewpYI-fbR7Tv1fA59a9evm5oXlZzqJsLnMVU3ZoACAE5LDv/embed?start=false&loop=false&slide=id.p26" 
            frameborder="0" width="100%" height="500" allowfullscreen="true" 
            mozallowfullscreen="true" webkitallowfullscreen="true">
         </iframe>
@@ -538,7 +538,7 @@ How Do You Structure Your Project and Design Your Module
 
   .. raw:: html
 
-    <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRvYdcXo7lJkAfPboML8aM6kaPEpqEUsewpYI-fbR7Tv1fA59a9evm5oXlZzqJsLnMVU3ZoACAE5LDv/embed?start=false&loop=false&delayms=3000&slide=id.p27" 
+    <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRvYdcXo7lJkAfPboML8aM6kaPEpqEUsewpYI-fbR7Tv1fA59a9evm5oXlZzqJsLnMVU3ZoACAE5LDv/embed?start=false&loop=false&slide=id.p27" 
         frameborder="0" width="100%" height="500" allowfullscreen="true" 
         mozallowfullscreen="true" webkitallowfullscreen="true">
     </iframe>
@@ -598,7 +598,7 @@ Here is the scenario:
  
          .. raw:: html
  
-           <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRvYdcXo7lJkAfPboML8aM6kaPEpqEUsewpYI-fbR7Tv1fA59a9evm5oXlZzqJsLnMVU3ZoACAE5LDv/embed?start=false&loop=false&delayms=3000&slide=id.p30" 
+           <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRvYdcXo7lJkAfPboML8aM6kaPEpqEUsewpYI-fbR7Tv1fA59a9evm5oXlZzqJsLnMVU3ZoACAE5LDv/embed?start=false&loop=false&slide=id.p30" 
                frameborder="0" width="100%" height="500" allowfullscreen="true" 
                mozallowfullscreen="true" webkitallowfullscreen="true">
            </iframe>

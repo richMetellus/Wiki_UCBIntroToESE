@@ -43,7 +43,7 @@ Manually Building software can be tedious:
              .. raw:: html
                 
                 <iframe 
-                  src="https://docs.google.com/presentation/d/e/2PACX-1vQKXjWTU3zTA9tzIqIEe1azv-wFQWNCSF1DFpaLxVjGz1uDYTWhMZxobAFkwMUl61pVd5SSGUkbTBM2/embed?start=false&loop=false&delayms=3000&slide=id.p6" 
+                  src="https://docs.google.com/presentation/d/e/2PACX-1vQKXjWTU3zTA9tzIqIEe1azv-wFQWNCSF1DFpaLxVjGz1uDYTWhMZxobAFkwMUl61pVd5SSGUkbTBM2/embed?start=false&loop=false&slide=id.p6" 
                   frameborder="0" width="100%" height="500" 
                   allowfullscreen="true" 
                   mozallowfullscreen="true" 
@@ -56,7 +56,7 @@ Manually Building software can be tedious:
              .. raw:: html
                 
                 <iframe 
-                  src="https://docs.google.com/presentation/d/e/2PACX-1vQKXjWTU3zTA9tzIqIEe1azv-wFQWNCSF1DFpaLxVjGz1uDYTWhMZxobAFkwMUl61pVd5SSGUkbTBM2/embed?start=false&loop=false&delayms=3000&slide=id.p7" 
+                  src="https://docs.google.com/presentation/d/e/2PACX-1vQKXjWTU3zTA9tzIqIEe1azv-wFQWNCSF1DFpaLxVjGz1uDYTWhMZxobAFkwMUl61pVd5SSGUkbTBM2/embed?start=false&loop=false&slide=id.p7" 
                   frameborder="0" width="100%" height="500" 
                   allowfullscreen="true" 
                   mozallowfullscreen="true" 
@@ -99,7 +99,7 @@ Build management software or Build Automation
      .. raw:: html
      
         <iframe 
-            src="https://docs.google.com/presentation/d/e/2PACX-1vQKXjWTU3zTA9tzIqIEe1azv-wFQWNCSF1DFpaLxVjGz1uDYTWhMZxobAFkwMUl61pVd5SSGUkbTBM2/embed?start=false&loop=false&delayms=3000&slide=id.p8" 
+            src="https://docs.google.com/presentation/d/e/2PACX-1vQKXjWTU3zTA9tzIqIEe1azv-wFQWNCSF1DFpaLxVjGz1uDYTWhMZxobAFkwMUl61pVd5SSGUkbTBM2/embed?start=false&loop=false&slide=id.p8" 
             frameborder="0" width="100%" height="500" 
             allowfullscreen="true" 
             mozallowfullscreen="true" 
@@ -184,7 +184,7 @@ GNU (GNU's not Unix) Make
     .. raw:: html
     
       <iframe 
-          src="https://docs.google.com/presentation/d/e/2PACX-1vQKXjWTU3zTA9tzIqIEe1azv-wFQWNCSF1DFpaLxVjGz1uDYTWhMZxobAFkwMUl61pVd5SSGUkbTBM2/embed?start=false&loop=false&delayms=3000&slide=id.p12" 
+          src="https://docs.google.com/presentation/d/e/2PACX-1vQKXjWTU3zTA9tzIqIEe1azv-wFQWNCSF1DFpaLxVjGz1uDYTWhMZxobAFkwMUl61pVd5SSGUkbTBM2/embed?start=false&loop=false&slide=id.p12" 
           frameborder="0" width="100%" height="500" 
           allowfullscreen="true" 
           mozallowfullscreen="true" 
@@ -200,7 +200,7 @@ GNU (GNU's not Unix) Make
     .. raw:: html
     
       <iframe 
-          src="https://docs.google.com/presentation/d/e/2PACX-1vQKXjWTU3zTA9tzIqIEe1azv-wFQWNCSF1DFpaLxVjGz1uDYTWhMZxobAFkwMUl61pVd5SSGUkbTBM2/embed?start=false&loop=false&delayms=3000&slide=id.p13" 
+          src="https://docs.google.com/presentation/d/e/2PACX-1vQKXjWTU3zTA9tzIqIEe1azv-wFQWNCSF1DFpaLxVjGz1uDYTWhMZxobAFkwMUl61pVd5SSGUkbTBM2/embed?start=false&loop=false&slide=id.p13" 
           frameborder="0" width="100%" height="500" 
           allowfullscreen="true" 
           mozallowfullscreen="true" 
@@ -289,7 +289,7 @@ integrated development environments?**
              .. raw:: html
                 
                 <iframe 
-                  src="https://docs.google.com/presentation/d/e/2PACX-1vQKXjWTU3zTA9tzIqIEe1azv-wFQWNCSF1DFpaLxVjGz1uDYTWhMZxobAFkwMUl61pVd5SSGUkbTBM2/embed?start=false&loop=false&delayms=3000&slide=id.p16" 
+                  src="https://docs.google.com/presentation/d/e/2PACX-1vQKXjWTU3zTA9tzIqIEe1azv-wFQWNCSF1DFpaLxVjGz1uDYTWhMZxobAFkwMUl61pVd5SSGUkbTBM2/embed?start=false&loop=false&slide=id.p16" 
                   frameborder="0" width="100%" height="500" 
                   allowfullscreen="true" 
                   mozallowfullscreen="true" 
@@ -302,7 +302,7 @@ integrated development environments?**
              .. raw:: html
                 
                 <iframe 
-                  src="https://docs.google.com/presentation/d/e/2PACX-1vQKXjWTU3zTA9tzIqIEe1azv-wFQWNCSF1DFpaLxVjGz1uDYTWhMZxobAFkwMUl61pVd5SSGUkbTBM2/embed?start=false&loop=false&delayms=3000&slide=id.p17" 
+                  src="https://docs.google.com/presentation/d/e/2PACX-1vQKXjWTU3zTA9tzIqIEe1azv-wFQWNCSF1DFpaLxVjGz1uDYTWhMZxobAFkwMUl61pVd5SSGUkbTBM2/embed?start=false&loop=false&slide=id.p17" 
                   frameborder="0" width="100%" height="500" 
                   allowfullscreen="true" 
                   mozallowfullscreen="true" 

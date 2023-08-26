@@ -30,7 +30,7 @@ The Generalized Typical Build Process
     .. raw:: html
 
        <iframe 
-         src="https://docs.google.com/presentation/d/e/2PACX-1vQ6kuVxGcwI0b7mBkgyLBjaN-5WdX2zsBGz8_dy-k846bYMxOFWuLOgJ4vvFDTm3AqzwzJGHjs3lbbz/embed?start=false&loop=false&delayms=3000&slide=id.p4" 
+         src="https://docs.google.com/presentation/d/e/2PACX-1vQ6kuVxGcwI0b7mBkgyLBjaN-5WdX2zsBGz8_dy-k846bYMxOFWuLOgJ4vvFDTm3AqzwzJGHjs3lbbz/embed?start=false&loop=false&slide=id.p4" 
          frameborder="0" width="100%" height="500" 
          allowfullscreen="true" 
          mozallowfullscreen="true" 
@@ -74,7 +74,7 @@ More details on what the linker is doing:
     .. raw:: html
 
        <iframe 
-         src="https://docs.google.com/presentation/d/e/2PACX-1vQ6kuVxGcwI0b7mBkgyLBjaN-5WdX2zsBGz8_dy-k846bYMxOFWuLOgJ4vvFDTm3AqzwzJGHjs3lbbz/embed?start=false&loop=false&delayms=3000&slide=id.p5" 
+         src="https://docs.google.com/presentation/d/e/2PACX-1vQ6kuVxGcwI0b7mBkgyLBjaN-5WdX2zsBGz8_dy-k846bYMxOFWuLOgJ4vvFDTm3AqzwzJGHjs3lbbz/embed?start=false&loop=false&slide=id.p5" 
          frameborder="0" width="100%" height="500" 
          allowfullscreen="true" 
          mozallowfullscreen="true" 
@@ -126,7 +126,7 @@ Linking process:
            .. raw:: html
 
               <iframe 
-                src="https://docs.google.com/presentation/d/e/2PACX-1vQ6kuVxGcwI0b7mBkgyLBjaN-5WdX2zsBGz8_dy-k846bYMxOFWuLOgJ4vvFDTm3AqzwzJGHjs3lbbz/embed?start=false&loop=false&delayms=3000&slide=id.p6" 
+                src="https://docs.google.com/presentation/d/e/2PACX-1vQ6kuVxGcwI0b7mBkgyLBjaN-5WdX2zsBGz8_dy-k846bYMxOFWuLOgJ4vvFDTm3AqzwzJGHjs3lbbz/embed?start=false&loop=false&slide=id.p6" 
                 frameborder="0" width="100%" height="500" 
                 allowfullscreen="true" 
                 mozallowfullscreen="true" 
@@ -164,7 +164,7 @@ functions and variables.
    .. raw:: html
    
        <iframe 
-         src="https://docs.google.com/presentation/d/e/2PACX-1vQ6kuVxGcwI0b7mBkgyLBjaN-5WdX2zsBGz8_dy-k846bYMxOFWuLOgJ4vvFDTm3AqzwzJGHjs3lbbz/embed?start=false&loop=false&delayms=3000&slide=id.p8" 
+         src="https://docs.google.com/presentation/d/e/2PACX-1vQ6kuVxGcwI0b7mBkgyLBjaN-5WdX2zsBGz8_dy-k846bYMxOFWuLOgJ4vvFDTm3AqzwzJGHjs3lbbz/embed?start=false&loop=false&slide=id.p8" 
          frameborder="0" width="100%" height="500" 
          allowfullscreen="true" 
          mozallowfullscreen="true" 
@@ -198,7 +198,7 @@ references between :term:`object files` need to be resolved.
    .. raw:: html
    
        <iframe 
-         src="https://docs.google.com/presentation/d/e/2PACX-1vQ6kuVxGcwI0b7mBkgyLBjaN-5WdX2zsBGz8_dy-k846bYMxOFWuLOgJ4vvFDTm3AqzwzJGHjs3lbbz/embed?start=false&loop=false&delayms=3000&slide=id.p9" 
+         src="https://docs.google.com/presentation/d/e/2PACX-1vQ6kuVxGcwI0b7mBkgyLBjaN-5WdX2zsBGz8_dy-k846bYMxOFWuLOgJ4vvFDTm3AqzwzJGHjs3lbbz/embed?start=false&loop=false&slide=id.p9" 
          frameborder="0" width="100%" height="500" 
          allowfullscreen="true" 
          mozallowfullscreen="true" 
@@ -221,7 +221,7 @@ references between :term:`object files` need to be resolved.
            .. raw:: html
            
                <iframe 
-                 src="https://docs.google.com/presentation/d/e/2PACX-1vQ6kuVxGcwI0b7mBkgyLBjaN-5WdX2zsBGz8_dy-k846bYMxOFWuLOgJ4vvFDTm3AqzwzJGHjs3lbbz/embed?start=false&loop=false&delayms=3000&slide=id.p10" 
+                 src="https://docs.google.com/presentation/d/e/2PACX-1vQ6kuVxGcwI0b7mBkgyLBjaN-5WdX2zsBGz8_dy-k846bYMxOFWuLOgJ4vvFDTm3AqzwzJGHjs3lbbz/embed?start=false&loop=false&slide=id.p10" 
                  frameborder="0" width="100%" height="500" 
                  allowfullscreen="true" 
                  mozallowfullscreen="true" 
@@ -238,7 +238,7 @@ Linking Static and Shared (dynamic) Libary
         .. raw:: html
            
            <iframe 
-             src="https://docs.google.com/presentation/d/e/2PACX-1vQ6kuVxGcwI0b7mBkgyLBjaN-5WdX2zsBGz8_dy-k846bYMxOFWuLOgJ4vvFDTm3AqzwzJGHjs3lbbz/embed?start=false&loop=false&delayms=3000&slide=id.p11" 
+             src="https://docs.google.com/presentation/d/e/2PACX-1vQ6kuVxGcwI0b7mBkgyLBjaN-5WdX2zsBGz8_dy-k846bYMxOFWuLOgJ4vvFDTm3AqzwzJGHjs3lbbz/embed?start=false&loop=false&slide=id.p11" 
              frameborder="0" width="100%" height="500" 
              allowfullscreen="true" 
              mozallowfullscreen="true" 
@@ -251,7 +251,7 @@ Linking Static and Shared (dynamic) Libary
         .. raw:: html
            
            <iframe 
-             src="https://docs.google.com/presentation/d/e/2PACX-1vQ6kuVxGcwI0b7mBkgyLBjaN-5WdX2zsBGz8_dy-k846bYMxOFWuLOgJ4vvFDTm3AqzwzJGHjs3lbbz/embed?start=false&loop=false&delayms=3000&slide=id.p12" 
+             src="https://docs.google.com/presentation/d/e/2PACX-1vQ6kuVxGcwI0b7mBkgyLBjaN-5WdX2zsBGz8_dy-k846bYMxOFWuLOgJ4vvFDTm3AqzwzJGHjs3lbbz/embed?start=false&loop=false&slide=id.p12" 
              frameborder="0" width="100%" height="500" 
              allowfullscreen="true" 
              mozallowfullscreen="true" 
@@ -301,7 +301,7 @@ How is reference to Main resolved?
     .. raw:: html
     
         <iframe 
-          src="https://docs.google.com/presentation/d/e/2PACX-1vQ6kuVxGcwI0b7mBkgyLBjaN-5WdX2zsBGz8_dy-k846bYMxOFWuLOgJ4vvFDTm3AqzwzJGHjs3lbbz/embed?start=false&loop=false&delayms=3000&slide=id.p13" 
+          src="https://docs.google.com/presentation/d/e/2PACX-1vQ6kuVxGcwI0b7mBkgyLBjaN-5WdX2zsBGz8_dy-k846bYMxOFWuLOgJ4vvFDTm3AqzwzJGHjs3lbbz/embed?start=false&loop=false&slide=id.p13" 
           frameborder="0" width="100%" height="500" 
           allowfullscreen="true" 
           mozallowfullscreen="true" 
@@ -340,7 +340,7 @@ Symbols Resolved -> Relocatable File, Symbols replace by address -> Executable F
         .. raw:: html
         
             <iframe 
-              src="https://docs.google.com/presentation/d/e/2PACX-1vQ6kuVxGcwI0b7mBkgyLBjaN-5WdX2zsBGz8_dy-k846bYMxOFWuLOgJ4vvFDTm3AqzwzJGHjs3lbbz/embed?start=false&loop=false&delayms=3000&slide=id.p14" 
+              src="https://docs.google.com/presentation/d/e/2PACX-1vQ6kuVxGcwI0b7mBkgyLBjaN-5WdX2zsBGz8_dy-k846bYMxOFWuLOgJ4vvFDTm3AqzwzJGHjs3lbbz/embed?start=false&loop=false&slide=id.p14" 
               frameborder="0" width="100%" height="500" 
               allowfullscreen="true" 
               mozallowfullscreen="true" 
@@ -363,7 +363,7 @@ Symbols Resolved -> Relocatable File, Symbols replace by address -> Executable F
         .. raw:: html
         
             <iframe 
-              src="https://docs.google.com/presentation/d/e/2PACX-1vQ6kuVxGcwI0b7mBkgyLBjaN-5WdX2zsBGz8_dy-k846bYMxOFWuLOgJ4vvFDTm3AqzwzJGHjs3lbbz/embed?start=false&loop=false&delayms=3000&slide=id.p15" 
+              src="https://docs.google.com/presentation/d/e/2PACX-1vQ6kuVxGcwI0b7mBkgyLBjaN-5WdX2zsBGz8_dy-k846bYMxOFWuLOgJ4vvFDTm3AqzwzJGHjs3lbbz/embed?start=false&loop=false&slide=id.p15" 
               frameborder="0" width="100%" height="500" 
               allowfullscreen="true" 
               mozallowfullscreen="true" 
@@ -394,7 +394,7 @@ Linker File
         .. raw:: html
            
            <iframe 
-             src="https://docs.google.com/presentation/d/e/2PACX-1vQ6kuVxGcwI0b7mBkgyLBjaN-5WdX2zsBGz8_dy-k846bYMxOFWuLOgJ4vvFDTm3AqzwzJGHjs3lbbz/embed?start=false&loop=false&delayms=3000&slide=id.p16" 
+             src="https://docs.google.com/presentation/d/e/2PACX-1vQ6kuVxGcwI0b7mBkgyLBjaN-5WdX2zsBGz8_dy-k846bYMxOFWuLOgJ4vvFDTm3AqzwzJGHjs3lbbz/embed?start=false&loop=false&slide=id.p16" 
              frameborder="0" width="100%" height="500" 
              allowfullscreen="true" 
              mozallowfullscreen="true" 
@@ -407,7 +407,7 @@ Linker File
         .. raw:: html
            
            <iframe 
-             src="https://docs.google.com/presentation/d/e/2PACX-1vQ6kuVxGcwI0b7mBkgyLBjaN-5WdX2zsBGz8_dy-k846bYMxOFWuLOgJ4vvFDTm3AqzwzJGHjs3lbbz/embed?start=false&loop=false&delayms=3000&slide=id.p17" 
+             src="https://docs.google.com/presentation/d/e/2PACX-1vQ6kuVxGcwI0b7mBkgyLBjaN-5WdX2zsBGz8_dy-k846bYMxOFWuLOgJ4vvFDTm3AqzwzJGHjs3lbbz/embed?start=false&loop=false&slide=id.p17" 
              frameborder="0" width="100%" height="500" 
              allowfullscreen="true" 
              mozallowfullscreen="true" 
@@ -461,7 +461,7 @@ your program executable will be split into
          .. raw:: html
          
              <iframe 
-               src="https://docs.google.com/presentation/d/e/2PACX-1vQ6kuVxGcwI0b7mBkgyLBjaN-5WdX2zsBGz8_dy-k846bYMxOFWuLOgJ4vvFDTm3AqzwzJGHjs3lbbz/embed?start=false&loop=false&delayms=3000&slide=id.p21" 
+               src="https://docs.google.com/presentation/d/e/2PACX-1vQ6kuVxGcwI0b7mBkgyLBjaN-5WdX2zsBGz8_dy-k846bYMxOFWuLOgJ4vvFDTm3AqzwzJGHjs3lbbz/embed?start=false&loop=false&slide=id.p21" 
                frameborder="0" width="100%" height="500" 
                allowfullscreen="true" 
                mozallowfullscreen="true" 
@@ -492,7 +492,7 @@ the linker needs to
            .. raw:: html
     
               <iframe 
-                src="https://docs.google.com/presentation/d/e/2PACX-1vQ6kuVxGcwI0b7mBkgyLBjaN-5WdX2zsBGz8_dy-k846bYMxOFWuLOgJ4vvFDTm3AqzwzJGHjs3lbbz/embed?start=false&loop=false&delayms=3000&slide=id.p21" 
+                src="https://docs.google.com/presentation/d/e/2PACX-1vQ6kuVxGcwI0b7mBkgyLBjaN-5WdX2zsBGz8_dy-k846bYMxOFWuLOgJ4vvFDTm3AqzwzJGHjs3lbbz/embed?start=false&loop=false&slide=id.p21" 
                 frameborder="0" width="100%" height="500" 
                 allowfullscreen="true" 
                 mozallowfullscreen="true" 
@@ -555,7 +555,7 @@ and provided physical memory spaces
    .. raw:: html
    
        <iframe 
-         src="https://docs.google.com/presentation/d/e/2PACX-1vQ6kuVxGcwI0b7mBkgyLBjaN-5WdX2zsBGz8_dy-k846bYMxOFWuLOgJ4vvFDTm3AqzwzJGHjs3lbbz/embed?start=false&loop=false&delayms=3000&slide=id.p28" 
+         src="https://docs.google.com/presentation/d/e/2PACX-1vQ6kuVxGcwI0b7mBkgyLBjaN-5WdX2zsBGz8_dy-k846bYMxOFWuLOgJ4vvFDTm3AqzwzJGHjs3lbbz/embed?start=false&loop=false&slide=id.p28" 
          frameborder="0" width="100%" height="500" 
          allowfullscreen="true" 
          mozallowfullscreen="true" 
@@ -572,7 +572,7 @@ and provided physical memory spaces
        .. raw:: html
        
            <iframe 
-             src="https://docs.google.com/presentation/d/e/2PACX-1vQ6kuVxGcwI0b7mBkgyLBjaN-5WdX2zsBGz8_dy-k846bYMxOFWuLOgJ4vvFDTm3AqzwzJGHjs3lbbz/embed?start=false&loop=false&delayms=3000&slide=id.p29" 
+             src="https://docs.google.com/presentation/d/e/2PACX-1vQ6kuVxGcwI0b7mBkgyLBjaN-5WdX2zsBGz8_dy-k846bYMxOFWuLOgJ4vvFDTm3AqzwzJGHjs3lbbz/embed?start=false&loop=false&slide=id.p29" 
              frameborder="0" width="100%" height="500" 
              allowfullscreen="true" 
              mozallowfullscreen="true" 
